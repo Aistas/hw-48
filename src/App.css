@@ -5,3 +5,13 @@
   text-align: center;
 }
 
+.add-task-form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 20px 0;
+}
+
+.add-task-form button {
+  margin-right: 10px;
+}
